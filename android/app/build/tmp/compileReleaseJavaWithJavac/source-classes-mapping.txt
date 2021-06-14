@@ -1,0 +1,9 @@
+com/tapp3xapp/BuildConfig.java
+ com.tapp3xapp.BuildConfig
+com/tapp3xapp/MainApplication.java
+ com.tapp3xapp.MainApplication
+ com.tapp3xapp.MainApplication$1
+com/tapp3xapp/MainActivity.java
+ com.tapp3xapp.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

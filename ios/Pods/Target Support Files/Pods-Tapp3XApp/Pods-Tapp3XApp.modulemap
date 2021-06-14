@@ -1,0 +1,6 @@
+module Pods_Tapp3XApp {
+  umbrella header "Pods-Tapp3XApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

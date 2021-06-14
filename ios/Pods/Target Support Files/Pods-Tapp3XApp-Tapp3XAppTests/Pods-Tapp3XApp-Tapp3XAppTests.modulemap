@@ -1,0 +1,6 @@
+module Pods_Tapp3XApp_Tapp3XAppTests {
+  umbrella header "Pods-Tapp3XApp-Tapp3XAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
