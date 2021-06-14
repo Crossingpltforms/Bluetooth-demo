@@ -1,11 +1,8 @@
-# react-native-ble-plx-example
-react-native-ble-plx-example
+# README #
+### How do I get set up? ###
 
-Project Desription : 
-Data communication between RN Mobile application and UART nordic BLE device.
-You can receive data notication from Bluetooth device and send command back to Bluetooth device based on nRF UART.
-
-1. Go to project root repository on terminal.
-2. Run commond `npm install`
-3. Run `npx react-native run-android`
-3. Run `npx react-native run-ios`
+* Take a clone in empty project folder `git clone https://github.com/Crossingpltforms/property-app.git`
+* Navigate to project root
+* run `npm install`
+* run `react-native run-ios`
+* run `react-native run-android`
